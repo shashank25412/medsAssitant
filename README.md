@@ -37,4 +37,4 @@ HOW TO USE
 DEVELOPERS
 
     -Shashank Kumar
-    -Rahul Sankritya
+    -Kumar Rahul
