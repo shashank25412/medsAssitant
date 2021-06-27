@@ -31,7 +31,8 @@ FEATURES (OR SECTIONS)
 
 HOW TO USE
 
-    -To install in your system, go to the build/debug/medsassistant.exe file in debug folder and install it to your system.
+    -To install in your system, go to the build/debug/medsassistant.exe file in debug folder and 
+    install it to your system.
     -Then open it and use.
 
 DEVELOPERS
